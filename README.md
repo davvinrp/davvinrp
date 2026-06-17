@@ -21,7 +21,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```javascript
 const davinka = {
@@ -37,7 +37,7 @@ const davinka = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
